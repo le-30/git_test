@@ -1,6 +1,5 @@
 hello
-<<<<<<< HEAD
 hih
 thanks
-=======
->>>>>>> parent of e63182a (second commit)
+
+
